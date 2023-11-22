@@ -1,0 +1,8 @@
+Name: mohammed
+Balance: 20.0
+
+Name: Abdullah
+Balance: 35.0
+
+Name: ahmed
+Balance:80.4
